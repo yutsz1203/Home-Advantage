@@ -1,0 +1,35 @@
+1. Average shots
+
+Home dropped(14.13--> 12.56)
+Away rised a bit (11.14-11.34)
+
+2. Shot Quality(Shot on Target per shot)
+
+Surprisingly, both sides rised.
+Home team improved more also(33.98-->36.00) 
+Away (35.73-->35.89)
+
+3. Shot Conversion(Goals per Shot)
+
+Home performed better(11.60-->12.01) 
+Away performed worse (12.05-->11.84)
+
+4. Goals Scored
+
+Home dropped more significant(1.57-->1.38) 
+Away rised(1.25-->1.31)
+Home still scored more than Away
+
+5. Goal Difference
+Dropped significantly(0.32-->0.07)
+The advantage of home team is less significant
+
+6. Win Rate
+Home win less games (47.6% --> 38.9%)
+Away win more games (33.7% --> 38.5%)
+There are more draws too (18.7% --> 22.6%)
+
+Conclusion
+Home advantage really exists. In all stats except shot quality and conversion, home dropped and away rised.
+Home team has less advantages without the aid of fans.
+Using more other stats can further prove it (such as posession, pass%)
