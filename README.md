@@ -1,7 +1,7 @@
 # Does 'home advantage' really exist?
 During the pandemic, covid restrictions restricted all fans were not allowed to watch premier league matches in person. Therefore, there were some matches that were played without fans. In this project, I will use some data from matches before the covid restriction and after the covid restriction, to see is there really 'home advantage' in football.
 
-Matches divided into:
+Matches are divided into:
 - With fans ( 2018-2019 season)
 - Without fans (92 games from 2019-2020 season & 360 games from 2020-2021 season)
 
